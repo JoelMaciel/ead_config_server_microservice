@@ -1,4 +1,4 @@
-# User Authentication Microservice (AuthUser)
+# Config Server Microservice
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/JoelMaciel/Product-Catalog/blob/readm/LICENCE)
 
