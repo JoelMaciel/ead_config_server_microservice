@@ -14,6 +14,7 @@
 
 ## Technology used :
 -  JAVA 11 
+-  SPRING CLOUD CONFIG SERVER
 -  CONFIG SERVER GLOBAL PATTERN
 
 ## Images
