@@ -14,11 +14,13 @@
 
 ## Technology used :
 -  JAVA 11 
+-  SPRING CLOUD CONFIG SERVER
 -  CONFIG SERVER GLOBAL PATTERN
 
 ## Images
 
+### EUREKA
+![Captura de tela de 2024-06-11 11-27-06](https://github.com/JoelMaciel/ead_authuser_microservice/assets/77079093/953f3b67-2a0d-425e-a456-3c13572e81d2)
 
 ![Captura de tela de 2024-06-08 16-47-04](https://github.com/JoelMaciel/ead_config_server_microservice/assets/77079093/d2cf72b1-0b45-41ba-9901-915a65fd4115)
-![Captura de tela de 2024-06-08 16-30-07](https://github.com/JoelMaciel/ead_config_server_microservice/assets/77079093/f3c29da6-72f0-42ef-aaad-a1bc55db5356)
 
