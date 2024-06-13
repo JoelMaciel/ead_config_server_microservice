@@ -13,9 +13,17 @@ spring:
           username: JoelMaciel
           password: ${ACCESS_TOKEN}
 
+ead:
+  configServer:
+    username: ${NAME_CONFIG}
+    password: ${PASSWORD_CONFIG}
+  serviceRegistry:
+    username: ${NAME}
+    password: ${PASSWORD}
+
 eureka:
   client:
     serviceUrl:
-      defaultZone: 'http://localhost:8761/eureka'
+      defaultZone: 'http://${ead.serviceRegistry.username}:${ead.serviceRegistry.password}@localhost:8761/eureka'
   instance:
     hostname: localhost
